@@ -1,5 +1,2 @@
-python==3.10.2
 Flask==2.0.3
 gunicorn==19.9.0
-flask_restful
-firebase
