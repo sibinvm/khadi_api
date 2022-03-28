@@ -1,4 +1,4 @@
-firebase==10.5.0
+firebase==3.0.1
 Flask==2.0.3
 Flask_RESTful==0.3.9
 requests==2.27.1
